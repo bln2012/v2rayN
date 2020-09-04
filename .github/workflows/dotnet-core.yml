@@ -1,6 +1,4 @@
-name: .NET Core  
-
-
+name: .NET Core 
 on:
   push:
     branches: [ master ]
